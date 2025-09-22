@@ -42,7 +42,6 @@ nav {
     padding: 2px;
     padding-left: 5px;
 }
-
 #icon-container {
     color: gray;
     margin-top: 15px;
@@ -50,11 +49,9 @@ nav {
     justify-self: flex-end;
     margin-right: 5px;
 }
-
 .fas {
     font-size: 20px;
 }
-
 #app-icon {
     transform: translateY(5px);
     font-size: 20px;
